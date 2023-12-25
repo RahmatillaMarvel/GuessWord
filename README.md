@@ -31,7 +31,7 @@ This Hangman game uses the Natural Language Toolkit (NLTK) library to access a l
 ```bash
 pip install nltk
 ```
-#@ Gameplay
+## Gameplay
 You start with a certain number of hearts.
 Guess letters by typing them in and press Enter.
 Incorrect guesses result in losing a heart.
